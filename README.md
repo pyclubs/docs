@@ -1,22 +1,14 @@
 # 👋 Welcome to PyClubs
 
+## What is PyClub
+
+PyClubs is a community initiative aimed at fostering Python programming skills and knowledge among university students. We facilitate the establishment of Python clubs on university campuses, providing a platform for learning, discussion, collaboration, and growth in Python development.
+
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+_<mark style="color:yellow;">**Empowering the next generation through inclusive learning environments, PyClubs unites students across disciplines to explore, excel in, and lead with Python, bridging academia and industry through innovation, collaboration, and community**</mark>_
+
+— Our Mission
 {% endhint %}
-
-## Overview
-
-Here are a couple of example overviews from products with really great docs:
-
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
 ## Quick links
 
