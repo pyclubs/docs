@@ -10,7 +10,7 @@
 ## Product Guides
 
 * [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📎 Curriculum Guide](product-guides/curriculum-guide.md)
 
 ## Fundamentals
 
