@@ -12,26 +12,10 @@ _**Empowering the next generation through inclusive learning environments, PyClu
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="pyclubs-guides/how-to-create-pyclubs-on-campus.md" %}
+[how-to-create-pyclubs-on-campus.md](pyclubs-guides/how-to-create-pyclubs-on-campus.md)
 {% endcontent-ref %}
