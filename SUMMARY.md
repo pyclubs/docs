@@ -9,5 +9,5 @@
 
 ## PyClubs Guides
 
-* [📪 How to Create PyClubs on Campus](pyclubs-guides/how-to-create-pyclubs-on-campus.md)
-* [📎 Curriculum Guide](pyclubs-guides/curriculum-guide.md)
+* [🏫 How to Create PyClubs on Campus](pyclubs-guides/how-to-create-pyclubs-on-campus.md)
+* [📄 Curriculum Guide](pyclubs-guides/curriculum-guide.md)
