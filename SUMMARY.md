@@ -5,7 +5,7 @@
 ## Overview
 
 * [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [⚖ PyClubs Code of Conduct](overview/pyclubs-code-of-conduct.md)
 
 ## PyClubs Guides
 

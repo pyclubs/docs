@@ -2,7 +2,7 @@
 description: This article provides a curriculum framework for PyClubs chapters
 ---
 
-# 📎 Curriculum Guide
+# 📄 Curriculum Guide
 
 ## Introduction
 
