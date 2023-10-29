@@ -1,7 +1,5 @@
 # ⚖ PyClubs Code of Conduct
 
-
-
 {% hint style="info" %}
 **Purpose:** A primary goal of PyClubs is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. We are committed to providing a friendly, safe, and welcoming environment for all. This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 {% endhint %}
@@ -41,4 +39,4 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## **Reporting Guidelines**
 
-##
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible.
