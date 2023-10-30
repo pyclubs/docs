@@ -16,7 +16,7 @@ To establish PyClubs at your institution, you must first identify whether there 
 
 ## Step 2 -  Submit an Application to the PyClubs Organization
 
-[Apply here](https://forms.gle/aCF3ht7m9bJ6qvR89) to become a PyClubs lead at your school. We'll review your submission and get back to you as soon as possible.
+[Apply here](https://www.pyclubs.org/clubs/apply/) to become a PyClubs lead at your school. We'll review your submission and get back to you as soon as possible.
 
 Please note the following before submitting your application:
 
