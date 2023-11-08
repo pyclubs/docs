@@ -30,17 +30,19 @@ As you design your logo, keep in mind basic design principles such as balance, c
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/error 1.png" alt="" width="300"><figcaption><p>IMG 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/error 1.png" alt="" width="450"><figcaption><p>IMG 1</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/error 2.png" alt="" width="300"><figcaption><p>IMG 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/error 2.png" alt="" width="450"><figcaption><p>IMG 2</p></figcaption></figure>
 
 </div>
 
 IMG 1: Make sure the \[INITIALS] are not too big\
 \
 IMG 2: The university logo size shouldn't be too big, and the initials too small
+
+
 
 <div>
 
