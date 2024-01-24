@@ -6,7 +6,7 @@ Creating a logo for your club under PyClubs can be an exciting way to showcase y
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Canva Template</p></figcaption></figure>
 
-We've provided a canvas template that is tailored for creating logos. Begin by accessing this template, which is designed to ensure that your logo meets the size and format requirements set by PyClubs.
+We've provided a canvas template tailored for creating logos. Begin by accessing this template to ensure that your logo meets the size and format requirements set by PyClubs.
 
 {% embed url="https://www.canva.com/design/DAFzh82n3Ro/cHcxGpCQepvMgWsTgB1RAA/view?mode=preview&utm_campaign=designshare&utm_content=DAFzh82n3Ro&utm_medium=link&utm_source=publishsharelink" %}
 Link to PyClub Template
@@ -14,15 +14,15 @@ Link to PyClub Template
 
 ## Step 2: Replace the University Logo
 
-The canvas comes with a placeholder for a university logo. You will need to replace this with your own university’s logo. Make sure the logo you use is in PNG format for transparency and crispness. This will be especially important if the logo is to be used on various backgrounds or printed materials.
+The canvas has a placeholder for a university logo. You will need to replace this with your own university’s logo. Make sure your logo is in PNG format for transparency and crispness. This will be especially important if the logo is used on various backgrounds or printed materials.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Replace logo with your university logo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Replace the Logo with your university logo.</p></figcaption></figure>
 
 ## Step 3: Incorporate the PyClub Initials
 
-Your PyClub’s initials should be integrated into the design of the main logo. Arrange the initials in a way that they are clearly visible and form a cohesive design with the university logo. Be careful not to let the initials extend beyond the bounds of the main logo design.
+Your PyClub’s initials should be integrated into the design of the primary logo. Arrange the initials to be visible and form a cohesive design with the university logo. Be careful not to let the initials extend beyond the bounds of the main logo design.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Enter university initials</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Enter university initials.</p></figcaption></figure>
 
 ## Step 4: Adherence to Design Principles
 
@@ -38,9 +38,9 @@ As you design your logo, keep in mind basic design principles such as balance, c
 
 </div>
 
-IMG 1: Make sure the \[INITIALS] are not too big\
+IMG 1: Ensure the \[INITIALS] are not too big.\
 \
-IMG 2: The university logo size shouldn't be too big, and the initials too small
+IMG 2: The university logo size shouldn't be too big, and the initials too small.
 
 
 
@@ -54,11 +54,11 @@ IMG 2: The university logo size shouldn't be too big, and the initials too small
 
 </div>
 
-Importantly, the outer colors of your PyClub logo should match your school’s logo colors to maintain visual coherence and brand alignment \[IMG 3 & 4]. This will help in creating a strong association between your club and the university.
+Importantly, the outer colors of your PyClub logo should match your school’s logo colors to maintain visual coherence and brand alignment \[IMG 3 & 4]. This will help create a strong association between your club and the university.
 
 ## Step 5: Submission for Approval
 
-Once you are satisfied with your design, submit the logo to PyClubs for approval. Email your final design to [team@pyclubs.org](mailto:team@pyclubs.org). The submission should include the original PNG file of the logo.
+Once satisfied with your design, submit the logo to PyClubs for approval. Email your final design to [team@pyclubs.org](mailto:team@pyclubs.org). The submission should include the original PNG file of the logo.
 
 ## Step 6: Await Feedback
 
@@ -66,6 +66,6 @@ After submission, wait for feedback from the PyClubs design team. If there are a
 
 ## Step 7: Finalize and Use Your Logo
 
-Upon approval, your club’s logo is ready for use. You can start incorporating it into your club’s materials such as banners, club page on the website, merchandise, and more.
+Upon approval, your club’s logo is ready for use. You can start incorporating it into your club’s materials, such as banners, club pages on the website, merchandise, and more.
 
 Remember, your logo is a representation of your club’s brand, so take the time to make it meaningful and appealing. Good luck with your design!
