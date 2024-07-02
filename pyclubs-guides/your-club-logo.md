@@ -8,9 +8,8 @@ Creating a logo for your club under PyClubs can be an exciting way to showcase y
 
 We've provided a canvas template tailored for creating logos. Begin by accessing this template to ensure that your logo meets the size and format requirements set by PyClubs.
 
-{% embed url="https://www.canva.com/design/DAFzh82n3Ro/cHcxGpCQepvMgWsTgB1RAA/view?mode=preview&utm_campaign=designshare&utm_content=DAFzh82n3Ro&utm_medium=link&utm_source=publishsharelink" %}
-Link to PyClub Template
-{% endembed %}
+\
+🎨 _**(You can find the link to the template at the end of the page)**_ 🎨
 
 ## Step 2: Replace the University Logo
 
@@ -69,3 +68,11 @@ After submission, wait for feedback from the PyClubs design team. If there are a
 Upon approval, your club’s logo is ready for use. You can start incorporating it into your club’s materials, such as banners, club pages on the website, merchandise, and more.
 
 Remember, your logo is a representation of your club’s brand, so take the time to make it meaningful and appealing. Good luck with your design!
+
+
+
+### 🎨 Create Your Own Unique PyClub Logo with our Canva Template! 🎨 <a href="#logo-template" id="logo-template"></a>
+
+{% embed url="https://www.canva.com/design/DAGJv0EvenI/Tguw044d6Ch_lXm939rCuw/view?mode=preview&utm_campaign=designshare&utm_content=DAGJv0EvenI&utm_medium=link&utm_source=sharebutton" %}
+Link to PyClub Template
+{% endembed %}

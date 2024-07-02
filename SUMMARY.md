@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [⚖ PyClubs Code of Conduct](overview/pyclubs-code-of-conduct.md)
+* [⚖️ PyClubs Code of Conduct](overview/pyclubs-code-of-conduct.md)
 
 ## PyClubs Guides
 
