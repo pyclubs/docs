@@ -61,4 +61,6 @@ Remember, your logo is a representation of your club’s brand, so take the time
 
 {% embed url="https://www.canva.com/design/DAGJv0EvenI/0vTbhlyFnO267TsRe9Fu4g/view?mode=preview&utm_campaign=designshare&utm_content=DAGJv0EvenI&utm_medium=link&utm_source=publishsharelink" %}
 
-Template Link: [https://www.canva.com/design/DAGJv0EvenI/0vTbhlyFnO267TsRe9Fu4g/view?utm\_content=DAGJv0EvenI\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=publishsharelink\&mode=preview](https://www.canva.com/design/DAGJv0EvenI/0vTbhlyFnO267TsRe9Fu4g/view?utm_content=DAGJv0EvenI\&utm_campaign=designshare\&utm_medium=link\&utm_source=publishsharelink\&mode=preview)
+Template Link: [https://www.canva.com/design/DAGJv0EvenI/0vTbhlyFnO267TsRe9Fu4g/view?utm\_content=DAGJv0EvenI\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=publishsharelink\&mode=preview](https://www.canva.com/design/DAGJv0EvenI/0vTbhlyFnO267TsRe9Fu4g/view?utm_content=DAGJv0EvenI\&utm_campaign=designshare\&utm_medium=link\&utm_source=publishsharelink\&mode=preview)\
+&#x20;\
+Make sure to click Edit Template\*
