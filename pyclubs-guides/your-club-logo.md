@@ -27,15 +27,7 @@ Your PyClub’s initials should be integrated into the design of the primary log
 
 As you design your logo, keep in mind basic design principles such as balance, contrast, and simplicity. Your logo should be recognizable and should look professional. It’s advisable to use a limited color palette and ensure the logo is scalable for different uses.&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/error 1.png" alt="" width="450"><figcaption><p>IMG 1</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/error 2.png" alt="" width="450"><figcaption><p>IMG 2</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/error 1.png" alt="" width="450"><figcaption><p>IMG 1</p></figcaption></figure> <figure><img src="../.gitbook/assets/error 2.png" alt="" width="450"><figcaption><p>IMG 2</p></figcaption></figure></div>
 
 IMG 1: Ensure the \[INITIALS] are not too big.\
 \
@@ -43,15 +35,7 @@ IMG 2: The university logo size shouldn't be too big, and the initials too small
 
 
 
-<div>
-
-<figure><img src="../.gitbook/assets/PyClub UCC.jpg" alt="" width="375"><figcaption><p>IMG 3</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/PyClub KNUST WBG.jpg" alt="" width="375"><figcaption><p>IMG 4</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/PyClub UCC.jpg" alt="" width="375"><figcaption><p>IMG 3</p></figcaption></figure> <figure><img src="../.gitbook/assets/PyClub KNUST WBG.jpg" alt="" width="375"><figcaption><p>IMG 4</p></figcaption></figure></div>
 
 Importantly, the outer colors of your PyClub logo should match your school’s logo colors to maintain visual coherence and brand alignment \[IMG 3 & 4]. This will help create a strong association between your club and the university.
 
@@ -73,6 +57,4 @@ Remember, your logo is a representation of your club’s brand, so take the time
 
 ### 🎨 Create Your Own Unique PyClub Logo with our Canva Template! 🎨 <a href="#logo-template" id="logo-template"></a>
 
-{% embed url="https://www.canva.com/design/DAGJv0EvenI/Tguw044d6Ch_lXm939rCuw/view?mode=preview&utm_campaign=designshare&utm_content=DAGJv0EvenI&utm_medium=link&utm_source=sharebutton" %}
-Link to PyClub Template
-{% endembed %}
+{% embed url="https://www.canva.com/design/DAGiS7RnQuk/CgxIq25MXz75WUPtyRSbZQ/view?mode=preview&utm_campaign=designshare&utm_content=DAGiS7RnQuk&utm_medium=link&utm_source=sharebutton" %}
