@@ -57,4 +57,6 @@ Remember, your logo is a representation of your club’s brand, so take the time
 
 ### 🎨 Create Your Own Unique PyClub Logo with our Canva Template! 🎨 <a href="#logo-template" id="logo-template"></a>
 
-{% embed url="https://www.canva.com/design/DAGiS7RnQuk/CgxIq25MXz75WUPtyRSbZQ/view?mode=preview&utm_campaign=designshare&utm_content=DAGiS7RnQuk&utm_medium=link&utm_source=sharebutton" %}
+
+
+{% embed url="https://www.canva.com/design/DAGJv0EvenI/0vTbhlyFnO267TsRe9Fu4g/view?mode=preview&utm_campaign=designshare&utm_content=DAGJv0EvenI&utm_medium=link&utm_source=publishsharelink" %}
