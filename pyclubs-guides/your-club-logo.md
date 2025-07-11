@@ -61,6 +61,6 @@ Remember, your logo is a representation of your club’s brand, so take the time
 
 {% embed url="https://www.canva.com/design/DAGJv0EvenI/0vTbhlyFnO267TsRe9Fu4g/view?mode=preview&utm_campaign=designshare&utm_content=DAGJv0EvenI&utm_medium=link&utm_source=publishsharelink" %}
 
-Template Link: [https://www.canva.com/design/DAGJv0EvenI/0vTbhlyFnO267TsRe9Fu4g/view?utm\_content=DAGJv0EvenI\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=publishsharelink\&mode=preview](https://www.canva.com/design/DAGJv0EvenI/0vTbhlyFnO267TsRe9Fu4g/view?utm_content=DAGJv0EvenI\&utm_campaign=designshare\&utm_medium=link\&utm_source=publishsharelink\&mode=preview)\
+Template Link: [https://www.canva.com/design/DAGiSz\_6Y\_8/Xj64j\_A4m1i5jLXATi\_ewg/edit?utm\_content=DAGiSz\_6Y\_8\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton](https://www.canva.com/design/DAGiSz_6Y_8/Xj64j_A4m1i5jLXATi_ewg/edit?utm_content=DAGiSz_6Y_8\&utm_campaign=designshare\&utm_medium=link2\&utm_source=sharebutton)\
 &#x20;\
-Make sure to click Edit Template\*
+Make sure to duplicate the first design before creating your logo\*
